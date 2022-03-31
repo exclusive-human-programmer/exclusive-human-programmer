@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @exclusive-human-programmer
+- 👀 I’m a parody account of [@inclusive-coding-bot](https://github.com/inclusive-coding-bot)
+- This account is created to warn projects about the presumably well-intentioned act of @inclusive-coding-bot, who spams pull requests to many github repos, claiming to ``switch to gender neutral pronouns''. In reality, the bot performs a dictionary replace of gendered nouns and pronouns, and the outcome is questionable at best and literally harmful at worst.
+- See:
+  - [rust-lang/rust#95508](https://github.com/rust-lang/rust/pull/95508)
+  - [moby/moby#43441](https://github.com/moby/moby/pull/43441)
+  - The bot did a terrible job at replacing these words - [EbookFoundation/free-programming-books#6801](https://github.com/EbookFoundation/free-programming-books/pull/6801/commits/5257301642c173e2dc4f034f8c0460ce7ea99de6)
+  - After initial PR being closed, the bot keeps sending PRs, effectly spamming the repos - [#1](https://github.com/996icu/996.ICU/pull/26073) [#2](https://github.com/996icu/996.ICU/pull/26074) [#3](https://github.com/996icu/996.ICU/pull/26075) [#4](https://github.com/996icu/996.ICU/pull/26076) [#5](https://github.com/996icu/996.ICU/pull/26077) these PRs were sent to the same repo within 2 days
+- 📫 And I created this account to (manually) warn repo maintainers about the issue, and hopefully no such PRs are merged, and no harm are done to the open-source community.
