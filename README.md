@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @exclusive-human-programmer
+- 👋 Hi, I’m @exclusive-huperson-programmer
 - 👀 I’m a parody account of [@inclusive-coding-bot](https://github.com/inclusive-coding-bot)
 - This account is created to warn projects about the presumably well-intentioned act of @inclusive-coding-bot, who spams pull requests to many github repos, claiming to ``switch to gender neutral pronouns''. In reality, the bot performs a dictionary replace of gendered nouns and pronouns, and the outcome is questionable at best and literally harmful at worst.
 - See:
